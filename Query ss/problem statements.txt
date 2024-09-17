@@ -1,0 +1,11 @@
+SQL PROJECT
+INDIA GENERAL ELECTION RESULT ANALYSIS 2024
+PROBLEM STATEMENT
+1. Total Seats
+2. What are the total number of seats available for elections in each state I
+3. Total Seats Won by NDA Alliance
+4. Seats Won by NDA Alliance Parties
+5. Total Seats Won by I.N.D.I.A. Alliance
+6. Seats Won by I.N.D.I.A. Alliance Parties
+7. Add new column field in table partywise_results to get the Party Allianz as NDA, I.N.D.I.A andOTHER
+8. Which party alliance (NDA, I.N.D.I.A, or OTHER) won the most seats across all states?
